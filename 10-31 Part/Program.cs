@@ -10,6 +10,19 @@ namespace _10_31_Part
     {
         static void Main(string[] args)
         {
+
+
+
+
+
+
+
+
+
+
+
+
+           
         }
     }
 }
